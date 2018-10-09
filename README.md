@@ -1,3 +1,4 @@
+refer to: https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/
 # dockes
 
 Provisioning and running a multi-node Elasticsearch cluster on a single Docker host.
